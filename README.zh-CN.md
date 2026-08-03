@@ -74,6 +74,7 @@
 
 - [编写 Skills](https://learn.chatgpt.com/docs/build-skills) — 官方 Skill 编写指南。 `(Official)`
 - [openai/skills](https://github.com/openai/skills) — OpenAI 的 Skills 目录。自己写之前先来这里翻。 `(Official)`
+- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — 面向 Codex 与 Claude Code 的 67 个 MIT 开源 Skills，覆盖多 Agent 编排、工作节点集群、代码审查与发布门槛、AI 评测、产品、设计和增长。
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) — 面向 Codex CLI 和 API 的实用 Skill 精选。
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 跨 harness 的大型 Skill 合集，其中兼容 Codex 的部分相当可观。
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — 让生成的 UI 摆脱"AI 模板味"的设计 Skill，支持 Codex。
