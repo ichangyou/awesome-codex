@@ -65,6 +65,7 @@
 
 - [Config File Reference](https://learn.chatgpt.com/docs/config-file/config-basic) — `~/.codex/config.toml`: models, approval policy, sandbox, MCP servers, profiles. `(Official)`
 - [Codex Models](https://learn.chatgpt.com/docs/models) — Choose models and reasoning effort in interactive and non-interactive Codex sessions. `(Official)`
+- [Auto-review](https://learn.chatgpt.com/docs/sandboxing/auto-review) — Routes sandbox-boundary approval requests to a separate reviewer agent without expanding the active sandbox or permission policy. `(Official)`
 - [Codex Rules: Global Instructions, AGENTS.md, and the Mac App](https://kirill-markin.com/articles/codex-rules-for-ai/) — Walkthrough of how the instruction layers actually resolve in practice.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — Cross-platform desktop app for switching provider/account configs across Codex, Claude Code, and others.
 
@@ -74,7 +75,8 @@
 
 - [Build Skills](https://learn.chatgpt.com/docs/build-skills) — Official guide to authoring skills. `(Official)`
 - [openai/skills](https://github.com/openai/skills) — OpenAI's skills catalog. Start here before writing your own. `(Official)`
-- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — 67 MIT-licensed Codex and Claude Code skills for orchestration, worker fleets, code review and ship gates, AI evaluation, product, design, and growth.
+- [Record & Replay](https://learn.chatgpt.com/docs/extend/record-and-replay) — Turns a demonstrated macOS workflow into a reusable Skill; it requires Computer Use and is not available in every region. `(Official)`
+- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — 71 MIT-licensed Codex and Claude Code skills for orchestration, worker fleets, code review and ship gates, AI evaluation, product, design, and growth.
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) — Curated practical skills for the Codex CLI and API.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — Large cross-harness skill collection; Codex-compatible subset is substantial.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill that pushes generated UI away from generic AI-template output. Works with Codex.
@@ -110,6 +112,7 @@
 ## Codex SDK & Headless
 
 - [Codex SDK](https://learn.chatgpt.com/docs/codex-sdk) — Embed Codex in your own applications and pipelines. `(Official)`
+- [Codex App Server](https://learn.chatgpt.com/docs/app-server) — Exposes authentication, conversation history, approvals, and streamed agent events over JSON-RPC for building rich Codex clients. `(Official)`
 - [`codex exec` — Non-interactive Mode](https://learn.chatgpt.com/docs/non-interactive-mode) — Run Codex in scripts and CI with pipe-friendly output and explicit sandbox settings. `(Official)`
 
 ## IDE & Editor Integrations
@@ -125,6 +128,7 @@
 ## Multi-Agent & Orchestration
 
 - [Subagents](https://learn.chatgpt.com/docs/agent-configuration/subagents) — Run independent work in parallel and define specialized agents with task-specific models and instructions. `(Official)`
+- [Git Worktrees](https://learn.chatgpt.com/docs/environments/git-worktrees) — Isolates parallel Codex desktop chats in managed Git worktrees so they can work in the same repository without interfering with each other. `(Official)`
 - [wshobson/agents](https://github.com/wshobson/agents) — Multi-harness agentic plugin marketplace covering Codex CLI, Claude Code, Cursor, and more.
 - [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) — Agent IDE for managing fleets of coding agents.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) — Opinionated harness (`omo` / `lazycodex`) built for long, complex agent runs.

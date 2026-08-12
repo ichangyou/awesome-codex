@@ -6,6 +6,20 @@ Format: additions grouped by section, then removals/fixes, then one line on what
 
 ---
 
+## 2026-W32 (2026-08-09)
+
+### Added
+
+- **Configuration** — Official Auto-review guide for routing sandbox-boundary approvals to a separate reviewer agent without expanding permissions.
+- **Skills** — Record & Replay for turning demonstrated macOS workflows into reusable skills, with its Computer Use and regional availability limits stated explicitly.
+- **Codex SDK & Headless** — Codex App Server documentation for building rich clients around authentication, conversation history, approvals, and streamed agent events.
+- **Multi-Agent & Orchestration** — Official Git worktree workflow for isolating parallel Codex desktop chats in the same repository.
+
+### Notes
+
+- Codex 0.147.0 added Auto-review through `--approve-for-me` and removed the deprecated `codex exec --full-auto` flag; use `--sandbox workspace-write` instead.
+- Portable Agent Plugins were not added again because the Plugins section already gained the relevant official guides in W31.
+
 ## 2026-W31 (2026-08-02)
 
 ### Added

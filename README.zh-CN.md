@@ -65,6 +65,7 @@
 
 - [配置文件参考](https://learn.chatgpt.com/docs/config-file/config-basic) — `~/.codex/config.toml`：模型、审批策略、沙箱、MCP 服务器、profile。 `(Official)`
 - [Codex 模型](https://learn.chatgpt.com/docs/models) — 在 Codex 的交互与非交互模式中选择模型和推理强度。 `(Official)`
+- [Auto-review](https://learn.chatgpt.com/docs/sandboxing/auto-review) — 在不扩大现有沙箱或权限策略的前提下，将越过沙箱边界的审批请求交给独立 reviewer agent。 `(Official)`
 - [Codex Rules: Global Instructions, AGENTS.md, and Mac App](https://kirill-markin.com/articles/codex-rules-for-ai/) — 实战角度讲清各层指令的生效顺序。
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — 跨平台桌面端配置/账号切换工具，支持 Codex、Claude Code 等。
 
@@ -74,7 +75,8 @@
 
 - [编写 Skills](https://learn.chatgpt.com/docs/build-skills) — 官方 Skill 编写指南。 `(Official)`
 - [openai/skills](https://github.com/openai/skills) — OpenAI 的 Skills 目录。自己写之前先来这里翻。 `(Official)`
-- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — 面向 Codex 与 Claude Code 的 67 个 MIT 开源 Skills，覆盖多 Agent 编排、工作节点集群、代码审查与发布门槛、AI 评测、产品、设计和增长。
+- [Record & Replay](https://learn.chatgpt.com/docs/extend/record-and-replay) — 把演示过的 macOS 工作流转成可复用 Skill；依赖 Computer Use，且仅在部分地区可用。 `(Official)`
+- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — 面向 Codex 与 Claude Code 的 71 个 MIT 开源 Skills，覆盖多 Agent 编排、工作节点集群、代码审查与发布门槛、AI 评测、产品、设计和增长。
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) — 面向 Codex CLI 和 API 的实用 Skill 精选。
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 跨 harness 的大型 Skill 合集，其中兼容 Codex 的部分相当可观。
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — 让生成的 UI 摆脱"AI 模板味"的设计 Skill，支持 Codex。
@@ -110,6 +112,7 @@
 ## Codex SDK 与无头模式
 
 - [Codex SDK](https://learn.chatgpt.com/docs/codex-sdk) — 把 Codex 嵌进自己的应用和流水线。 `(Official)`
+- [Codex App Server](https://learn.chatgpt.com/docs/app-server) — 通过 JSON-RPC 暴露认证、会话历史、审批与流式 agent 事件，用于构建深度集成的 Codex 客户端。 `(Official)`
 - [`codex exec` 非交互模式](https://learn.chatgpt.com/docs/non-interactive-mode) — 在脚本和 CI 中运行 Codex，支持管道友好的输出和显式沙箱设置。 `(Official)`
 
 ## IDE 与编辑器集成
@@ -125,6 +128,7 @@
 ## 多 Agent 与编排
 
 - [Subagents](https://learn.chatgpt.com/docs/agent-configuration/subagents) — 并行执行相互独立的工作，并用任务专属模型和指令定义特化 Agent。 `(Official)`
+- [Git Worktrees](https://learn.chatgpt.com/docs/environments/git-worktrees) — 在托管的 Git worktree 中隔离并行的 Codex 桌面端会话，使它们能在同一仓库内工作而不互相干扰。 `(Official)`
 - [wshobson/agents](https://github.com/wshobson/agents) — 跨 harness 的 agent 插件市场，覆盖 Codex CLI、Claude Code、Cursor 等。
 - [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) — 管理 agent 集群的 Agent IDE。
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) — 为长时间复杂任务设计的 harness（`omo` / `lazycodex`）。
