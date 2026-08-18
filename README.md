@@ -88,6 +88,7 @@
 - [Plugins](https://learn.chatgpt.com/docs/plugins) — Browse, install, and use reusable capability bundles in the Codex CLI and supported ChatGPT surfaces. `(Official)`
 - [Build Plugins](https://learn.chatgpt.com/docs/build-plugins) — Package skills and MCP servers into installable bundles, then test them through a local marketplace. `(Official)`
 - [Skills & Plugins](https://learn.chatgpt.com/docs/skills-and-plugins) — Decide when a repeatable workflow should remain a skill and when it should become a shareable plugin. `(Official)`
+- [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — Local-first Codex runtime governor that observes repeated tool work in Shadow Mode and gates narrow enforcement on verified evidence, explicit consent, and integrity checks.
 
 ## MCP Servers
 
