@@ -91,6 +91,7 @@
 - [Plugins](https://learn.chatgpt.com/docs/plugins) — 在 Codex CLI 和支持的 ChatGPT 界面中浏览、安装、使用可复用能力包。 `(Official)`
 - [构建 Plugins](https://learn.chatgpt.com/docs/build-plugins) — 把 Skills 和 MCP 服务器打包为可安装的能力，并通过本地 marketplace 测试。 `(Official)`
 - [Skills 与 Plugins](https://learn.chatgpt.com/docs/skills-and-plugins) — 判断一个重复工作流应该保留为 Skill，还是做成可分享的 Plugin。 `(Official)`
+- [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — 面向 Codex 的营销插件，包含 45 个 SEO、GEO、付费媒体与分析工作流，并通过一个托管 MCP 连接处理实时账户任务。
 
 ## MCP 服务器
 
