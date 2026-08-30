@@ -152,6 +152,7 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — Turns a codebase plus its docs, schemas, and PDFs into a queryable knowledge graph for agents.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) — Pre-indexed code knowledge graph that auto-syncs on change; supports Codex.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) — File-based persistent planning for long-running agent tasks.
+- [Skill Sunset](https://github.com/ooocooc/open-skill-sunset) — Local, read-only audit for stale AGENTS.md, CLAUDE.md, and generic SKILL.md instructions.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — Local-first desktop app that gives a coding agent a design surface to work against.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — `DESIGN.md` spec: describes a visual identity to coding agents, the way AGENTS.md describes a codebase.
 
