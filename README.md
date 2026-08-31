@@ -92,6 +92,7 @@
 - [Build Plugins](https://learn.chatgpt.com/docs/build-plugins) — Package skills and MCP servers into installable bundles, then test them through a local marketplace. `(Official)`
 - [Skills & Plugins](https://learn.chatgpt.com/docs/skills-and-plugins) — Decide when a repeatable workflow should remain a skill and when it should become a shareable plugin. `(Official)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — Codex marketing plugin with 45 SEO, GEO, paid-media, and analytics workflows plus one hosted MCP connection for live account work.
+- [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — Local-first Codex runtime governor that observes repeated tool work in Shadow Mode and gates narrow enforcement on verified evidence, explicit consent, and integrity checks.
 
 ## MCP Servers
 
@@ -153,6 +154,7 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — Turns a codebase plus its docs, schemas, and PDFs into a queryable knowledge graph for agents.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) — Pre-indexed code knowledge graph that auto-syncs on change; supports Codex.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) — File-based persistent planning for long-running agent tasks.
+- [Skill Sunset](https://github.com/ooocooc/open-skill-sunset) — Local, read-only audit for stale AGENTS.md, CLAUDE.md, and generic SKILL.md instructions.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — Local-first desktop app that gives a coding agent a design surface to work against.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — `DESIGN.md` spec: describes a visual identity to coding agents, the way AGENTS.md describes a codebase.
 

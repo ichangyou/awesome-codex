@@ -92,6 +92,7 @@
 - [构建 Plugins](https://learn.chatgpt.com/docs/build-plugins) — 把 Skills 和 MCP 服务器打包为可安装的能力，并通过本地 marketplace 测试。 `(Official)`
 - [Skills 与 Plugins](https://learn.chatgpt.com/docs/skills-and-plugins) — 判断一个重复工作流应该保留为 Skill，还是做成可分享的 Plugin。 `(Official)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — 面向 Codex 的营销插件，包含 45 个 SEO、GEO、付费媒体与分析工作流，并通过一个托管 MCP 连接处理实时账户任务。
+- [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — 本地优先的 Codex 运行时治理插件；先以 Shadow Mode 观察重复工具调用，仅在验证证据、明确同意和完整性检查通过后启用窄范围拦截。
 
 ## MCP 服务器
 
@@ -153,6 +154,7 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — 把代码库连同文档、schema、PDF 一起转成可查询的知识图谱喂给 agent。
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) — 预索引的代码知识图谱，随代码变更自动同步，支持 Codex。
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) — 基于文件的持久化计划，用于长时间 agent 任务。
+- [Skill Sunset](https://github.com/ooocooc/open-skill-sunset) — 用于检查过期 AGENTS.md、CLAUDE.md 与通用 SKILL.md 指令的本地只读审计工具。
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 本地优先的桌面应用，给编码 agent 一个可对照的设计面。
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — `DESIGN.md` 规范：像 AGENTS.md 描述代码库那样，向 agent 描述视觉规范。
 
