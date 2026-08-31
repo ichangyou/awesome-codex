@@ -79,6 +79,7 @@
 - [Build Skills](https://learn.chatgpt.com/docs/build-skills) — Official guide to authoring skills. `(Official)`
 - [openai/skills](https://github.com/openai/skills) — OpenAI's skills catalog. Start here before writing your own. `(Official)`
 - [Record & Replay](https://learn.chatgpt.com/docs/extend/record-and-replay) — Turns a demonstrated macOS workflow into a reusable Skill; it requires Computer Use and is not available in every region. `(Official)`
+- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — MIT-licensed Codex and Claude Code skills for orchestration, worker fleets, code review and ship gates, AI evaluation, product, design, and growth.
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) — Curated practical skills for the Codex CLI and API.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — Large cross-harness skill collection; Codex-compatible subset is substantial.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill that pushes generated UI away from generic AI-template output. Works with Codex.
