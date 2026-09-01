@@ -155,6 +155,7 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — 把代码库连同文档、schema、PDF 一起转成可查询的知识图谱喂给 agent。
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) — 预索引的代码知识图谱，随代码变更自动同步，支持 Codex。
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) — 基于文件的持久化计划，用于长时间 agent 任务。
+- [Skill Auditor](https://github.com/22WELTYANG/skill-auditor) — 面向 Codex 与 AI agent Skills 的安全扫描器，用于检测提示注入、恶意脚本、凭据访问、数据外泄和供应链风险。
 - [Skill Sunset](https://github.com/ooocooc/open-skill-sunset) — 用于检查过期 AGENTS.md、CLAUDE.md 与通用 SKILL.md 指令的本地只读审计工具。
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 本地优先的桌面应用，给编码 agent 一个可对照的设计面。
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — `DESIGN.md` 规范：像 AGENTS.md 描述代码库那样，向 agent 描述视觉规范。
