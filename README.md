@@ -94,6 +94,7 @@
 - [Skills & Plugins](https://learn.chatgpt.com/docs/skills-and-plugins) — Decide when a repeatable workflow should remain a skill and when it should become a shareable plugin. `(Official)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — Codex marketing plugin with 45 SEO, GEO, paid-media, and analytics workflows plus one hosted MCP connection for live account work.
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — Local-first Codex runtime governor that observes repeated tool work in Shadow Mode and gates narrow enforcement on verified evidence, explicit consent, and integrity checks.
+- [Focus Field](https://github.com/qq783840671-png/recursive-center-field-theory) — Codex plugin and Skill for locating the active field, deriving the governing question, and reopening only conclusions affected by new evidence.
 
 ## MCP Servers
 

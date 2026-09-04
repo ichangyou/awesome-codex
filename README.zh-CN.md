@@ -94,6 +94,7 @@
 - [Skills 与 Plugins](https://learn.chatgpt.com/docs/skills-and-plugins) — 判断一个重复工作流应该保留为 Skill，还是做成可分享的 Plugin。 `(Official)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — 面向 Codex 的营销插件，包含 45 个 SEO、GEO、付费媒体与分析工作流，并通过一个托管 MCP 连接处理实时账户任务。
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — 本地优先的 Codex 运行时治理插件；先以 Shadow Mode 观察重复工具调用，仅在验证证据、明确同意和完整性检查通过后启用窄范围拦截。
+- [Focus Field](https://github.com/qq783840671-png/recursive-center-field-theory) — 用于定位当前场域、生成主导问题，并在新证据出现时只重开受影响结论的 Codex Plugin 与 Skill。
 
 ## MCP 服务器
 
