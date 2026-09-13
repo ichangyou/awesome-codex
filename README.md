@@ -42,6 +42,7 @@
 - [Security & Approvals](https://learn.chatgpt.com/docs/agent-approvals-security) — Sandbox modes and the approval model. Read this before granting write access. `(Official)`
 - [Prompting Guide](https://learn.chatgpt.com/docs/prompting) — OpenAI's own guidance on prompting Codex. `(Official)`
 - [openai/skills](https://github.com/openai/skills) — Official skills catalog for Codex. `(Official)`
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
 
 ## Getting Started
 
