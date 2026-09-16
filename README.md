@@ -107,6 +107,7 @@
 - [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) — Rust code-intelligence CLI that builds call graphs and semantic search for coding agents.
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — Lets Codex research documentation through NotebookLM.
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — Uses ChatGPT Developer Mode as a local coding agent for your repo over MCP.
+- [contextstream/mcp-server](https://github.com/contextstream/mcp-server) — Shared project context for AI coding agents: hosted MCP with code search, decisions, lessons, and plans.
 
 ## Hooks & Automation
 
