@@ -100,6 +100,7 @@
 
 > Codex speaks the Model Context Protocol, so most MCP servers work without Codex-specific glue.
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - [MCP in Codex](https://learn.chatgpt.com/docs/extend/mcp) — How to register MCP servers in `config.toml`. `(Official)`
 - [Model Context Protocol](https://modelcontextprotocol.io) — Protocol spec and SDKs.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — Reference server implementations.
