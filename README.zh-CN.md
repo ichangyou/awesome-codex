@@ -162,6 +162,8 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 本地优先的桌面应用，给编码 agent 一个可对照的设计面。
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — `DESIGN.md` 规范：像 AGENTS.md 描述代码库那样，向 agent 描述视觉规范。
 
+- [NextReset](https://nextreset.ai/) — 记录已观察到的 Codex 重置历史和官方事故来源，并提供仅保存在浏览器本地的个人重置计时器。
+
 ## 中文资源
 
 - [liyupi/ai-guide](https://github.com/liyupi/ai-guide) — 程序员鱼皮的 AI 资源大全与 Vibe Coding 教程，含 Codex 在内的多种 agent 用法。 `(Chinese)`

@@ -162,6 +162,8 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — Local-first desktop app that gives a coding agent a design surface to work against.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — `DESIGN.md` spec: describes a visual identity to coding agents, the way AGENTS.md describes a codebase.
 
+- [NextReset](https://nextreset.ai/) — Tracks observed Codex reset history and official incident sources, with a browser-local personal reset timer.
+
 ## Chinese Resources
 
 - [liyupi/ai-guide](https://github.com/liyupi/ai-guide) — 程序员鱼皮的 AI 资源大全与 Vibe Coding 教程，含 Codex 在内的多种 agent 用法。 `(Chinese)`
