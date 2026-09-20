@@ -1,0 +1,127 @@
+name: Suggest a resource
+description: Propose something for the list
+title: "Add: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please read [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) first. An entry
+        gets in if it clears all four bars: Codex-specific, alive, someone used it,
+        and one honest sentence.
+
+        One resource per issue. It makes rejection cheap and merges fast.
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: One sentence, in your own words
+      description: >
+        What it does and when you would reach for it. Not the project's own
+        marketing copy, not a feature list.
+    validations:
+      required: true
+
+  - type: textarea
+    id: used
+    attributes:
+      label: Have you used it? What for?
+      description: >
+        Be specific. "It has a lot of stars" is not a reason. If you have not used
+        it, say so — that is a fine answer, it just changes how this is weighed.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Are you affiliated with this project?
+      description: Self-submissions are fine. Undisclosed ones are not.
+      options:
+        - "No"
+        - "Yes — I maintain it"
+        - "Yes — I work on it or for the company behind it"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: cost
+    attributes:
+      label: Does it require an account or payment to evaluate?
+      description: >
+        Anything requiring signup before you can try it is a rejection category
+        here. Paid and freemium resources need the `(Paid)` tag.
+      options:
+        - "No — works without signup"
+        - "Free tier, paid beyond it"
+        - "Signup required before you can try it"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: codex
+    attributes:
+      label: How does it relate to Codex?
+      description: >
+        A generic AI tool that mentions Codex in a feature matrix does not qualify.
+        MCP servers are the exception — they work with Codex by protocol.
+      options:
+        - "Built for Codex specifically"
+        - "Supports Codex as a first-class target alongside other agents"
+        - "An MCP server (works with Codex by protocol)"
+        - "Generic AI tool that also works with Codex"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Which section does it belong in?
+      options:
+        - Official Resources
+        - Getting Started
+        - AGENTS.md
+        - Configuration
+        - Skills
+        - Plugins
+        - MCP Servers
+        - Hooks & Automation
+        - Codex SDK & Headless
+        - IDE & Editor Integrations
+        - Cloud & Code Review
+        - Multi-Agent & Orchestration
+        - Clients & Remote Access
+        - Tools & Utilities
+        - Chinese Resources
+        - Not sure
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: >
+            The link works, and the repository contains an actual implementation —
+            not only manifests, registry files, and a logo.
+          required: true
+        - label: >
+            It has been committed to within the last ~6 months, or it is official
+            documentation.
+          required: true
+
+  - type: textarea
+    id: anything_else
+    attributes:
+      label: Anything else
+      description: Optional. Limitations, caveats, who it is not for.
+    validations:
+      required: false
