@@ -1,0 +1,25 @@
+name: Report a problem
+description: Report a dead link, inaccurate description, missing tag, or outdated entry
+title: "Fix: "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Affected entry
+      description: Link to the entry or name its section and title.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Include the failing URL or the specific claim that needs correction.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or suggested correction
+      description: Link to primary documentation if available.
+    validations:
+      required: false

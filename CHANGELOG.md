@@ -6,6 +6,18 @@ Format: additions grouped by section, then removals/fixes, then one line on what
 
 ---
 
+## 2026-W39 (2026-09-24)
+
+### Added
+
+- **Plugins** — Four official development plugins: Build Web Apps, Build iOS Apps, Build macOS Apps, and Build Web Data Visualization.
+- **Tools & Utilities** — check-docs, a pre-commit check for stale paths in agent instruction files (merged from PR #17).
+- **Clients & Remote Access** — Codex Lookout, a LAN companion for monitoring and steering Codex Desktop tasks (merged from PR #19).
+
+### Notes
+
+- The official plugin entries link to their implementations in `openai/plugins`; Worklittle Jobs was not added because its public repository contains connector manifests and instructions rather than the MCP server implementation, and its job-search use case is outside this coding list's focus.
+
 ## 2026-W37 (2026-09-09)
 
 ### Added
