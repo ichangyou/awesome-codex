@@ -84,6 +84,7 @@
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — Large cross-harness skill collection; Codex-compatible subset is substantial.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill that pushes generated UI away from generic AI-template output. Works with Codex.
 - [microsoft/skills](https://github.com/microsoft/skills) — Skills, MCP servers, and AGENTS.md files for grounding coding agents in Microsoft SDKs.
+- [Browser Extension Launch](https://github.com/xiehuan123/browser-extension-launch) — Turns a plain-language idea into a tested Chrome extension, release package, and store-submission materials with resumable Codex workflows.
 
 ## Plugins
 
