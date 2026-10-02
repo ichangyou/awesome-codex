@@ -84,6 +84,7 @@
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — Large cross-harness skill collection; Codex-compatible subset is substantial.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill that pushes generated UI away from generic AI-template output. Works with Codex.
 - [microsoft/skills](https://github.com/microsoft/skills) — Skills, MCP servers, and AGENTS.md files for grounding coding agents in Microsoft SDKs.
+- [alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en) — Five MIT-licensed SKILL.md workflows for everyday knowledge work in Codex: proofreading technical docs, writing commit messages, turning meeting notes into minutes, a five-axis code review checklist, and structured deep research.
 
 ## Plugins
 

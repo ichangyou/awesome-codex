@@ -84,6 +84,7 @@
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 跨 harness 的大型 Skill 合集，其中兼容 Codex 的部分相当可观。
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — 让生成的 UI 摆脱"AI 模板味"的设计 Skill，支持 Codex。
 - [microsoft/skills](https://github.com/microsoft/skills) — 微软给自家 SDK 提供的 Skills、MCP 服务器与 AGENTS.md。
+- [alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en) — 五个 MIT 开源的 SKILL.md 工作流，覆盖 Codex 日常知识工作：技术文档校对、提交信息撰写、会议记录整理成纪要、五维代码评审清单与结构化深度调研。
 
 ## Plugins
 
