@@ -112,6 +112,8 @@
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — 让 Codex 通过 NotebookLM 查文档。
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — 通过 MCP 把 ChatGPT Developer Mode 当作本地编码 agent 使用。
 
+- [Aident Loadout](https://github.com/Aident-AI/aident-skill) — 远程 MCP 服务器，让 Codex 等智能体通过一次可复用设置接入 1,000+ 应用与 400+ Skills（[主页](https://aident.ai)，MCP `https://loadout.aident.ai/mcp`）。
+
 ## Hooks 与自动化
 
 - [Hooks](https://learn.chatgpt.com/docs/hooks) — 在 Codex 生命周期事件上挂命令。 `(Official)`

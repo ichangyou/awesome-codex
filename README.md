@@ -112,6 +112,8 @@
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — Lets Codex research documentation through NotebookLM.
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — Uses ChatGPT Developer Mode as a local coding agent for your repo over MCP.
 
+- [Aident Loadout](https://github.com/Aident-AI/aident-skill) — Remote MCP server that connects Codex and other agents to 1,000+ apps and 400+ Skills through one reusable setup ([homepage](https://aident.ai), MCP `https://loadout.aident.ai/mcp`).
+
 ## Hooks & Automation
 
 - [Hooks](https://learn.chatgpt.com/docs/hooks) — Run commands on Codex lifecycle events. `(Official)`
