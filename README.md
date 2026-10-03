@@ -130,6 +130,7 @@
 - [Codex IDE Extension](https://learn.chatgpt.com/docs/codex/ide) — Official docs for the editor integration. `(Official)`
 - [ChatGPT — VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt) — The official extension for VS Code, Cursor, and Windsurf. `(Official)`
 - [Integrated Terminal](https://learn.chatgpt.com/docs/integrated-terminal) — Run commands and inspect their output without leaving the Codex conversation. `(Official)`
+- [iolys](https://getiolys.com/providers/codex) — Iolys is a Codex integration in Visual Studio 2026.
 
 ## Cloud & Code Review
 

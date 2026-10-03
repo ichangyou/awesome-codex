@@ -130,6 +130,7 @@
 - [Codex IDE 扩展](https://learn.chatgpt.com/docs/codex/ide) — 编辑器集成官方文档。 `(Official)`
 - [ChatGPT — VS Code 插件市场](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt) — VS Code / Cursor / Windsurf 通用的官方扩展。 `(Official)`
 - [集成终端](https://learn.chatgpt.com/docs/integrated-terminal) — 无需离开 Codex 对话即可运行命令并查看输出。 `(Official)`
+- [iolys](https://getiolys.com/providers/codex) — Iolys 将 Codex 集成到 Visual Studio 2026 中。
 
 ## 云端与代码评审
 
