@@ -158,6 +158,7 @@
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — Bridges local coding agents to messaging platforms so you can drive them from chat.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — Local, open-source desktop app for running Codex and other agents continuously.
 - [receptron/mulmoterminal](https://github.com/receptron/mulmoterminal) — Browser grid to watch several Codex sessions at once.
+- [pungme/superagent-desktop](https://github.com/pungme/superagent-desktop) — Open-source macOS desktop app giving Codex and Claude Code a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 
 ## Tools & Utilities
 
