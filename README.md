@@ -84,7 +84,7 @@
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — Large cross-harness skill collection; Codex-compatible subset is substantial.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill that pushes generated UI away from generic AI-template output. Works with Codex.
 - [microsoft/skills](https://github.com/microsoft/skills) — Skills, MCP servers, and AGENTS.md files for grounding coding agents in Microsoft SDKs.
-- [Browser Extension Launch](https://github.com/xiehuan123/browser-extension-launch) — Turns a plain-language idea into a tested Chrome extension, release package, and store-submission materials with resumable Codex workflows.
+- [Browser Extension Launch](https://github.com/xiehuan123/browser-extension-launch) — Guides Codex through Chrome extension development, controlled-browser acceptance, release packaging, and store-submission preparation. `(Chinese)`
 
 ## Plugins
 
@@ -100,7 +100,7 @@
 - [Product Design](https://openai.com/business/plugins/product-design/) — Codex plugin for synthesizing user research, creating interactive prototypes from briefs or visual references, and reviewing user flows to guide design iteration. `(Official)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — Codex marketing plugin with 45 SEO, GEO, paid-media, and analytics workflows plus one hosted MCP connection for live account work.
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — Local-first Codex runtime governor that observes repeated tool work in Shadow Mode and gates narrow enforcement on verified evidence, explicit consent, and integrity checks.
-- [rossoctl/context-guru](https://github.com/rossoctl/context-guru) — Context optimization for Codex that manages prompt caching and reduces redundant context during long coding sessions.
+- [rossoctl/context-guru](https://github.com/rossoctl/context-guru) — Experimental Codex plugin that routes sessions through a local proxy for prompt-cache management and optional context trimming.
 
 ## MCP Servers
 
@@ -159,7 +159,7 @@
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — Bridges local coding agents to messaging platforms so you can drive them from chat.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — Local, open-source desktop app for running Codex and other agents continuously.
 - [receptron/mulmoterminal](https://github.com/receptron/mulmoterminal) — Browser grid to watch several Codex sessions at once.
-- [pungme/superagent-desktop](https://github.com/pungme/superagent-desktop) — Open-source macOS desktop app giving Codex and Claude Code a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
+- [pungme/superagent-desktop](https://github.com/pungme/superagent-desktop) — Open-source macOS desktop app giving Codex and Claude Code a browser to drive, iOS Simulator tools, and a phone companion for remote monitoring.
 
 ## Tools & Utilities
 

@@ -84,7 +84,7 @@
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 跨 harness 的大型 Skill 合集，其中兼容 Codex 的部分相当可观。
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — 让生成的 UI 摆脱"AI 模板味"的设计 Skill，支持 Codex。
 - [microsoft/skills](https://github.com/microsoft/skills) — 微软给自家 SDK 提供的 Skills、MCP 服务器与 AGENTS.md。
-- [浏览器插件一站式上线](https://github.com/xiehuan123/browser-extension-launch) — 使用可恢复的 Codex 工作流，把自然语言想法做成经过真实验收的 Chrome 插件、发布包和商店提交材料。 `(Chinese)`
+- [浏览器插件一站式上线](https://github.com/xiehuan123/browser-extension-launch) — 指导 Codex 完成 Chrome 插件开发、受控浏览器验收、发布打包与商店提交材料准备。 `(Chinese)`
 
 ## Plugins
 
@@ -100,6 +100,7 @@
 - [Product Design](https://openai.com/business/plugins/product-design/) — 面向 Codex 的产品设计插件，支持用户研究分析、基于需求简报或视觉参考构建交互式原型，以及评审用户流程以指导设计迭代。 `(Official)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — 面向 Codex 的营销插件，包含 45 个 SEO、GEO、付费媒体与分析工作流，并通过一个托管 MCP 连接处理实时账户任务。
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — 本地优先的 Codex 运行时治理插件；先以 Shadow Mode 观察重复工具调用，仅在验证证据、明确同意和完整性检查通过后启用窄范围拦截。
+- [rossoctl/context-guru](https://github.com/rossoctl/context-guru) — 实验性 Codex 插件，将会话接入本地代理，提供提示缓存管理与可选的上下文裁剪。
 
 ## MCP 服务器
 
@@ -158,6 +159,7 @@
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — 把本地编码 agent 接到 IM 平台，用聊天窗口指挥。
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — 本地开源桌面应用，可长时间挂着跑 Codex 等 agent。
 - [receptron/mulmoterminal](https://github.com/receptron/mulmoterminal) — 浏览器网格界面，同时查看多个 Codex 会话。
+- [pungme/superagent-desktop](https://github.com/pungme/superagent-desktop) — 开源 macOS 桌面应用，为 Codex 和 Claude Code 提供浏览器操作、iOS 模拟器工具，以及用于远程监控的手机伴侣应用。
 
 ## 工具与实用程序
 

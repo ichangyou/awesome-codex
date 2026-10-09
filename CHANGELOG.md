@@ -6,6 +6,20 @@ Format: additions grouped by section, then removals/fixes, then one line on what
 
 ---
 
+## 2026-W41 (2026-10-09)
+
+### Added
+
+- **Clients & Remote Access** — MulmoTerminal for viewing parallel Codex sessions (PR #20), and Superagent for browser and iOS Simulator tools with remote monitoring (PR #21).
+- **Skills** — Browser Extension Launch for Chrome extension development, controlled-browser acceptance, release packaging, and store-submission preparation (PR #22).
+- **Plugins** — Context Guru, an experimental local proxy for prompt-cache management and optional context trimming (PR #26).
+
+### Notes
+
+- Added missing Chinese entries for Superagent and Context Guru and aligned the Browser Extension Launch language tags.
+- Browser Extension Launch requires an extension-capable controlled browser for acceptance; Context Guru changes user-level provider routing, and context trimming is optional.
+- Resource review covered documentation, implementation files, and published usage records; the maintainer did not run these tools or their tests.
+
 ## 2026-W39 (2026-09-24)
 
 ### Added
