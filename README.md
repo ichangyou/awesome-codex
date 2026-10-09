@@ -156,6 +156,7 @@
 - [makorise/codex-local-hub](https://github.com/makorise/codex-local-hub) — Browser-based LAN companion for existing Codex Desktop tasks, with status monitoring, queued and steering prompts, usage visibility, and a visual-delivery inbox.
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — Bridges local coding agents to messaging platforms so you can drive them from chat.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — Local, open-source desktop app for running Codex and other agents continuously.
+- [receptron/mulmoterminal](https://github.com/receptron/mulmoterminal) — Browser grid to watch several Codex sessions at once.
 
 ## Tools & Utilities
 
