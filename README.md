@@ -59,7 +59,6 @@
 - [agents.md](https://agents.md/) — The open format spec, shared across Codex, Cursor, Jules, and others.
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) — Source repo for the spec and the site.
 - [codex/docs/agents_md.md](https://github.com/openai/codex/blob/main/docs/agents_md.md) — The in-repo version of the docs, usually ahead of the website. `(Official)`
-- [openai/codex — AGENTS.md](https://github.com/openai/codex/blob/main/AGENTS.md) — The Codex team's own AGENTS.md. The best available reference example. `(Official)`
 - [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) — Collection of real-world AGENTS.md files and templates.
 - [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) — AGENTS.md rulesets derived from Clean Code and similar books.
 
@@ -98,6 +97,7 @@
 - [Build macOS Apps](https://github.com/openai/plugins/tree/main/plugins/build-macos-apps) — Bundles build, test, SwiftUI/AppKit, signing, and notarization workflows for native macOS development. `(Official)`
 - [Build Web Data Visualization](https://github.com/openai/plugins/tree/main/plugins/build-web-data-visualization) — Bundles skills for designing, implementing, testing, and exporting browser charts, dashboards, maps, and diagrams. `(Official)`
 - [Product Design](https://openai.com/business/plugins/product-design/) — Codex plugin for synthesizing user research, creating interactive prototypes from briefs or visual references, and reviewing user flows to guide design iteration. `(Official)`
+- [Sentry](https://github.com/openai/plugins/tree/main/plugins/sentry) — Bundles a hosted MCP connection and read-only issue/event inspection scripts for investigating production errors in Codex. `(Official)` `(Paid)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — Codex marketing plugin with 45 SEO, GEO, paid-media, and analytics workflows plus one hosted MCP connection for live account work.
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — Local-first Codex runtime governor that observes repeated tool work in Shadow Mode and gates narrow enforcement on verified evidence, explicit consent, and integrity checks.
 - [rossoctl/context-guru](https://github.com/rossoctl/context-guru) — Experimental Codex plugin that routes sessions through a local proxy for prompt-cache management and optional context trimming.
@@ -109,6 +109,7 @@
 - [MCP in Codex](https://learn.chatgpt.com/docs/extend/mcp) — How to register MCP servers in `config.toml`. `(Official)`
 - [Model Context Protocol](https://modelcontextprotocol.io) — Protocol spec and SDKs.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — Reference server implementations.
+- [Sentry MCP](https://mcp.sentry.dev/) — Connects Codex to Sentry over OAuth to search production errors, inspect events, and analyze performance. `(Paid)`
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Read and write Figma from Codex.
 - [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) — Rust code-intelligence CLI that builds call graphs and semantic search for coding agents.
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — Lets Codex research documentation through NotebookLM.
@@ -171,6 +172,7 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — Local-first desktop app that gives a coding agent a design surface to work against.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — `DESIGN.md` spec: describes a visual identity to coding agents, the way AGENTS.md describes a codebase.
 - [check-docs](https://github.com/ipaulsmith/check-docs) — Pre-commit check for broken paths in AGENTS.md, CLAUDE.md, and their imported files.
+- [LCU](https://github.com/amontlabs/lcu) — Exposes the installed ChatGPT desktop app's computer-use runtime to Codex CLI, Claude Code, and Pi on Apple Silicon macOS and supported X11 Linux systems, with per-app approvals.
 
 ## Chinese Resources
 

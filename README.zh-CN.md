@@ -59,7 +59,6 @@
 - [agents.md](https://agents.md/) — 开放格式规范，Codex、Cursor、Jules 等共用。
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) — 规范与站点的源仓库。
 - [codex/docs/agents_md.md](https://github.com/openai/codex/blob/main/docs/agents_md.md) — 仓库内版本，通常比官网更新更快。 `(Official)`
-- [openai/codex 的 AGENTS.md](https://github.com/openai/codex/blob/main/AGENTS.md) — Codex 团队自己写的 AGENTS.md，是目前最好的参考样本。 `(Official)`
 - [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) — 真实项目的 AGENTS.md 与模板合集。
 - [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) — 从《Clean Code》等书提炼的 AGENTS.md 规则集。
 
@@ -98,6 +97,7 @@
 - [Build macOS Apps](https://github.com/openai/plugins/tree/main/plugins/build-macos-apps) — 整合原生 macOS 应用的构建、测试、SwiftUI/AppKit、签名和公证工作流。 `(Official)`
 - [Build Web Data Visualization](https://github.com/openai/plugins/tree/main/plugins/build-web-data-visualization) — 提供设计、实现、测试和导出网页图表、仪表盘、地图与关系图的技能。 `(Official)`
 - [Product Design](https://openai.com/business/plugins/product-design/) — 面向 Codex 的产品设计插件，支持用户研究分析、基于需求简报或视觉参考构建交互式原型，以及评审用户流程以指导设计迭代。 `(Official)`
+- [Sentry](https://github.com/openai/plugins/tree/main/plugins/sentry) — 为 Codex 提供托管 MCP 连接与只读 Issue/Event 查询脚本，用于调查线上错误。 `(Official)` `(Paid)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — 面向 Codex 的营销插件，包含 45 个 SEO、GEO、付费媒体与分析工作流，并通过一个托管 MCP 连接处理实时账户任务。
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — 本地优先的 Codex 运行时治理插件；先以 Shadow Mode 观察重复工具调用，仅在验证证据、明确同意和完整性检查通过后启用窄范围拦截。
 - [rossoctl/context-guru](https://github.com/rossoctl/context-guru) — 实验性 Codex 插件，将会话接入本地代理，提供提示缓存管理与可选的上下文裁剪。
@@ -109,6 +109,7 @@
 - [Codex 中的 MCP](https://learn.chatgpt.com/docs/extend/mcp) — 如何在 `config.toml` 里注册 MCP 服务器。 `(Official)`
 - [Model Context Protocol](https://modelcontextprotocol.io) — 协议规范与 SDK。
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — 官方参考实现。
+- [Sentry MCP](https://mcp.sentry.dev/) — 通过 OAuth 将 Codex 接入 Sentry，用于搜索线上错误、查看事件和分析性能。 `(Paid)`
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — 让 Codex 读写 Figma。
 - [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) — Rust 写的代码情报 CLI，为 agent 构建调用图和语义检索。
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — 让 Codex 通过 NotebookLM 查文档。
@@ -171,6 +172,7 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 本地优先的桌面应用，给编码 agent 一个可对照的设计面。
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — `DESIGN.md` 规范：像 AGENTS.md 描述代码库那样，向 agent 描述视觉规范。
 - [check-docs](https://github.com/ipaulsmith/check-docs) — 提交前检查 AGENTS.md、CLAUDE.md 及其导入文件中的失效路径。
+- [LCU](https://github.com/amontlabs/lcu) — 将已安装的 ChatGPT 桌面应用的 Computer Use 运行时接入 Codex CLI、Claude Code 和 Pi，支持 Apple Silicon macOS 与指定的 X11 Linux 系统，并保留逐应用授权。
 
 ## 中文资源
 

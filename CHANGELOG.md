@@ -13,12 +13,21 @@ Format: additions grouped by section, then removals/fixes, then one line on what
 - **Clients & Remote Access** — MulmoTerminal for viewing parallel Codex sessions (PR #20), and Superagent for browser and iOS Simulator tools with remote monitoring (PR #21).
 - **Skills** — Browser Extension Launch for Chrome extension development, controlled-browser acceptance, release packaging, and store-submission preparation (PR #22).
 - **Plugins** — Context Guru, an experimental local proxy for prompt-cache management and optional context trimming (PR #26).
+- **Plugins** — Sentry for a hosted MCP connection and read-only issue/event inspection.
+- **MCP Servers** — Sentry MCP for OAuth-based error and performance investigation.
+- **Tools & Utilities** — LCU for using the installed ChatGPT desktop app's computer-use runtime from Codex CLI and other supported harnesses.
+
+### Removed
+
+- **AGENTS.md** — Removed the Codex team's root instruction-file example from both READMEs because its GitHub URL returns 404.
 
 ### Notes
 
+- Processed the local inbox: LCU and Sentry had maintainer-reported use; mf-ai-skills, Emil Kowalski's skills, and OpenSEO remain pending hands-on confirmation and scope review.
+- Sentry supplies observability data rather than a guaranteed fix workflow; its hosted MCP uses OAuth, while the bundled read-only script requires `SENTRY_AUTH_TOKEN`. LCU still requires the official ChatGPT desktop app and supports a limited set of platforms and harnesses.
 - Added missing Chinese entries for Superagent and Context Guru and aligned the Browser Extension Launch language tags.
 - Browser Extension Launch requires an extension-capable controlled browser for acceptance; Context Guru changes user-level provider routing, and context trimming is optional.
-- Resource review covered documentation, implementation files, and published usage records; the maintainer did not run these tools or their tests.
+- The earlier PR resource review covered documentation, implementation files, and published usage records; those PR resources were not run by the maintainer.
 
 ## 2026-W39 (2026-09-24)
 
