@@ -162,6 +162,8 @@
 - [receptron/mulmoterminal](https://github.com/receptron/mulmoterminal) — 浏览器网格界面，同时查看多个 Codex 会话。
 - [pungme/superagent-desktop](https://github.com/pungme/superagent-desktop) — 开源 macOS 桌面应用，为 Codex 和 Claude Code 提供浏览器操作、iOS 模拟器工具，以及用于远程监控的手机伴侣应用。
 
+- [Tabgent](https://github.com/FibonaAI/tabgent) — 把 Codex 接入 Chrome 侧栏，用轻量实现支持网页读取和浏览器操作。
+
 ## 工具与实用程序
 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — 把代码库连同文档、schema、PDF 一起转成可查询的知识图谱喂给 agent。

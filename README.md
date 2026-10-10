@@ -162,6 +162,8 @@
 - [receptron/mulmoterminal](https://github.com/receptron/mulmoterminal) — Browser grid to watch several Codex sessions at once.
 - [pungme/superagent-desktop](https://github.com/pungme/superagent-desktop) — Open-source macOS desktop app giving Codex and Claude Code a browser to drive, iOS Simulator tools, and a phone companion for remote monitoring.
 
+- [Tabgent](https://github.com/FibonaAI/tabgent) — Connects Codex to a Chrome sidebar through a lightweight implementation for reading pages and performing browser actions.
+
 ## Tools & Utilities
 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — Turns a codebase plus its docs, schemas, and PDFs into a queryable knowledge graph for agents.
