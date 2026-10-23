@@ -116,6 +116,7 @@
 - [morluto/rea](https://github.com/morluto/rea) — 让 Codex 逆向分析应用行为和原生二进制的 MCP 服务，安装时会一并写入配套的工作流说明。
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — 让 Codex 通过 NotebookLM 查文档。
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — 通过 MCP 把 ChatGPT Developer Mode 当作本地编码 agent 使用。
+- [CurlShot MCP](https://curlshot.com/tools/screenshot-tool-for-ai-agents) — 托管的 HTTP MCP 服务器，提供 `take_screenshot` 工具，让 Codex 在检查 UI 改动时查看网页渲染结果（图片、PDF 或滚动视频）；需要 CurlShot access key，有免费套餐。 `(Paid)`
 
 ## Hooks 与自动化
 
