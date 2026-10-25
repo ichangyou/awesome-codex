@@ -109,6 +109,7 @@
 
 - [Codex 中的 MCP](https://learn.chatgpt.com/docs/extend/mcp) — 如何在 `config.toml` 里注册 MCP 服务器。 `(Official)`
 - [Model Context Protocol](https://modelcontextprotocol.io) — 协议规范与 SDK。
+- [ReMCP](https://github.com/getremcp/remcp) — 通过 OAuth 在明确配对的设备上操作终端、文件和浏览器；操作可能修改设备状态。
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — 官方参考实现。
 - [Sentry MCP](https://mcp.sentry.dev/) — 通过 OAuth 将 Codex 接入 Sentry，用于搜索线上错误、查看事件和分析性能。 `(Paid)`
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — 让 Codex 读写 Figma。
