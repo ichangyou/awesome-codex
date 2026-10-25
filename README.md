@@ -109,6 +109,7 @@
 
 - [MCP in Codex](https://learn.chatgpt.com/docs/extend/mcp) — How to register MCP servers in `config.toml`. `(Official)`
 - [Model Context Protocol](https://modelcontextprotocol.io) — Protocol spec and SDKs.
+- [Docsy](https://github.com/getremcp/docsy-plugin) — Retrieves version-specific developer documentation with publisher citations through a read-only OAuth MCP.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — Reference server implementations.
 - [Sentry MCP](https://mcp.sentry.dev/) — Connects Codex to Sentry over OAuth to search production errors, inspect events, and analyze performance. `(Paid)`
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Read and write Figma from Codex.
