@@ -154,6 +154,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) — Opinionated harness (`omo` / `lazycodex`) built for long, complex agent runs.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — Meta-harness for coordinating multi-agent swarms.
 - [YYLO](https://github.com/yylo-dev/yylo) — Command-line orchestrator for coding agents: each task runs in a dedicated Git worktree with typed validation and a risk-based merge queue, and Codex is one of its built-in subagent runtimes.
+- [Multi-LLM](https://github.com/beastlabai/multi-llm-plugin) — Multi-llm was dogfooded and used to develop itself, and several other products internally such as a forecasting app and a trading bot.
 
 ## Clients & Remote Access
 
