@@ -116,6 +116,7 @@
 - [morluto/rea](https://github.com/morluto/rea) — MCP server that lets Codex reverse engineer app behavior and native binaries, and installs matching workflow instructions during setup.
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — Lets Codex research documentation through NotebookLM.
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — Uses ChatGPT Developer Mode as a local coding agent for your repo over MCP.
+- [ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android) — Free macOS app that controls the Android Emulator (dark mode, locale, TalkBack, GPS, Layout Inspector) and ships an MCP server so Codex can see and drive the emulator: `codex mcp add oh-my-android -- ohmyandroid-mcp`.
 
 ## Hooks & Automation
 

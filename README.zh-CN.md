@@ -116,6 +116,7 @@
 - [morluto/rea](https://github.com/morluto/rea) — 让 Codex 逆向分析应用行为和原生二进制的 MCP 服务，安装时会一并写入配套的工作流说明。
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — 让 Codex 通过 NotebookLM 查文档。
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — 通过 MCP 把 ChatGPT Developer Mode 当作本地编码 agent 使用。
+- [ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android) — 免费的 macOS 应用，用来控制 Android 模拟器（深色模式、语言、TalkBack、GPS、布局检查器），并内置 MCP 服务，让 Codex 能查看并操作模拟器：`codex mcp add oh-my-android -- ohmyandroid-mcp`。
 
 ## Hooks 与自动化
 
