@@ -116,6 +116,7 @@
 - [morluto/rea](https://github.com/morluto/rea) — MCP server that lets Codex reverse engineer app behavior and native binaries, and installs matching workflow instructions during setup.
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — Lets Codex research documentation through NotebookLM.
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — Uses ChatGPT Developer Mode as a local coding agent for your repo over MCP.
+- [radres/call-me](https://github.com/radres/call-me) — Lets Codex ring or text your phone when an unattended run needs a decision, and brings your spoken answer back as text. `(Paid)`
 
 ## Hooks & Automation
 
