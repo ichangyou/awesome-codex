@@ -190,7 +190,6 @@
 
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) — Codex 插件、Skills 与插件注册表。维护最勤的替代品。
 - [RoggeOhta/awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) — 20 个分类下 150+ 工具。覆盖面最广，但自 2026 年 4 月起未更新。
-- [milisp/awesome-codex-cli](https://github.com/milisp/awesome-codex-cli) — Codex CLI 的资源、工具与教程。
 - [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) — 专注 AGENTS.md。
 - [awesomelistsio/awesome-openai](https://github.com/awesomelistsio/awesome-openai) — 更宽的 OpenAI 生态，Codex 只是其中一块。
 

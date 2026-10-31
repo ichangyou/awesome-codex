@@ -190,7 +190,6 @@
 
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) — Codex plugins, skills, and a plugin registry. The most actively maintained alternative.
 - [RoggeOhta/awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) — 150+ tools across 20 categories. Broadest coverage, but has not been updated since April 2026.
-- [milisp/awesome-codex-cli](https://github.com/milisp/awesome-codex-cli) — Resources, tools, and tutorials for the Codex CLI.
 - [Ischca/awesome-agents-md](https://github.com/Ischca/awesome-agents-md) — AGENTS.md-focused.
 - [awesomelistsio/awesome-openai](https://github.com/awesomelistsio/awesome-openai) — Broader OpenAI ecosystem, Codex is one slice.
 
