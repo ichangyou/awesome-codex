@@ -6,6 +6,18 @@ Format: additions grouped by section, then removals/fixes, then one line on what
 
 ---
 
+## 2026-W45 (2026-11-07)
+
+### Added
+
+- **Skills** — Marketing Skills, a MIT-licensed collection for landing-page copy, SEO audits, paid ads, analytics, and growth, installable in Codex as a plugin.
+
+### Notes
+
+- Added from the local inbox. The note says `seo-audit` and `copywriting` were the skills actually used, for landing-page copy in a Claude session; that session was not re-run in Codex before adding.
+- Verified `.codex-plugin/plugin.json` (`marketing-skills`, skills path `./skills/`), the Codex marketplace install instructions, the MIT license, and a push on 2026-11-06. Listed as one collection; the inbox count of 26 skills is stale.
+- Optional partner tool integrations can require separate paid data accounts. The skills themselves are MIT-licensed.
+
 ## 2026-W43 (2026-10-23)
 
 ### Added
