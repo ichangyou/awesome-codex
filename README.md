@@ -117,6 +117,7 @@
 - [morluto/rea](https://github.com/morluto/rea) — MCP server that lets Codex reverse engineer app behavior and native binaries, and installs matching workflow instructions during setup.
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — Lets Codex research documentation through NotebookLM.
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — Uses ChatGPT Developer Mode as a local coding agent for your repo over MCP.
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) — Indexes `~/.codex/sessions` alongside 42 other coding agents into local SQLite for cross-session search over MCP, uncommitted file recovery, and cross-agent handoffs.
 
 ## Hooks & Automation
 
