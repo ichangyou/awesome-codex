@@ -101,6 +101,7 @@
 - [Product Design](https://openai.com/business/plugins/product-design/) — 面向 Codex 的产品设计插件，支持用户研究分析、基于需求简报或视觉参考构建交互式原型，以及评审用户流程以指导设计迭代。 `(Official)`
 - [Sentry](https://github.com/openai/plugins/tree/main/plugins/sentry) — 为 Codex 提供托管 MCP 连接与只读 Issue/Event 查询脚本，用于调查线上错误。 `(Official)` `(Paid)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — 面向 Codex 的营销插件，包含 45 个 SEO、GEO、付费媒体与分析工作流，并通过一个托管 MCP 连接处理实时账户任务。
+- [GoVisit Toolkit](https://govisit.ai/en/docs/developers/agent-skills/installation) — 为 Codex 安装只读的目的地和地点调研 Skill，用于检索和读取已发布的旅行资料。
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — 本地优先的 Codex 运行时治理插件；先以 Shadow Mode 观察重复工具调用，仅在验证证据、明确同意和完整性检查通过后启用窄范围拦截。
 - [rossoctl/context-guru](https://github.com/rossoctl/context-guru) — 实验性 Codex 插件，将会话接入本地代理，提供提示缓存管理与可选的上下文裁剪。
 
