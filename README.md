@@ -101,6 +101,7 @@
 - [Product Design](https://openai.com/business/plugins/product-design/) — Codex plugin for synthesizing user research, creating interactive prototypes from briefs or visual references, and reviewing user flows to guide design iteration. `(Official)`
 - [Sentry](https://github.com/openai/plugins/tree/main/plugins/sentry) — Bundles a hosted MCP connection and read-only issue/event inspection scripts for investigating production errors in Codex. `(Official)` `(Paid)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — Codex marketing plugin with 45 SEO, GEO, paid-media, and analytics workflows plus one hosted MCP connection for live account work.
+- [GoVisit Toolkit](https://govisit.ai/en/docs/developers/agent-skills/installation) — Installs read-only destination and place research skills in Codex for searching and reading published travel profiles.
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — Local-first Codex runtime governor that observes repeated tool work in Shadow Mode and gates narrow enforcement on verified evidence, explicit consent, and integrity checks.
 - [rossoctl/context-guru](https://github.com/rossoctl/context-guru) — Experimental Codex plugin that routes sessions through a local proxy for prompt-cache management and optional context trimming.
 
