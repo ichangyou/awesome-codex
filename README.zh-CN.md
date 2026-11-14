@@ -117,6 +117,7 @@
 - [morluto/rea](https://github.com/morluto/rea) — 让 Codex 逆向分析应用行为和原生二进制的 MCP 服务，安装时会一并写入配套的工作流说明。
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — 让 Codex 通过 NotebookLM 查文档。
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — 通过 MCP 把 ChatGPT Developer Mode 当作本地编码 agent 使用。
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) — 将 `~/.codex/sessions` 与其他 42 种编码 agent 的会话索引到本地 SQLite，通过 MCP 提供跨会话检索、未提交文件恢复与跨 agent 任务交接。
 
 ## Hooks 与自动化
 
