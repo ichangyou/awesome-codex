@@ -115,6 +115,7 @@
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Read and write Figma from Codex.
 - [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) — Rust code-intelligence CLI that builds call graphs and semantic search for coding agents.
 - [morluto/rea](https://github.com/morluto/rea) — MCP server that lets Codex reverse engineer app behavior and native binaries, and installs matching workflow instructions during setup.
+- [No Stairs Please](https://nostairsplease.com/mcp) - Remote MCP server for searching 3,400+ under-400-capacity live music venues with payout terms and booking contacts.
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — Lets Codex research documentation through NotebookLM.
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — Uses ChatGPT Developer Mode as a local coding agent for your repo over MCP.
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) — Builds a local index of Codex and other coding agents’ sessions for history search over MCP, recovery of overwritten code from session records, and cross-agent task handoffs.
