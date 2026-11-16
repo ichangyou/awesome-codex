@@ -112,6 +112,7 @@
 - [Model Context Protocol](https://modelcontextprotocol.io) — 协议规范与 SDK。
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — 官方参考实现。
 - [Sentry MCP](https://mcp.sentry.dev/) — 通过 OAuth 将 Codex 接入 Sentry，用于搜索线上错误、查看事件和分析性能。 `(Paid)`
+- [imageat](https://github.com/incendies/imageat-mcp) — imageat 官方 MCP 服务，用于生成和编辑图像与视频，并支持配解说的讲解视频和配音；可使用托管端点或本地 stdio。`(Paid)`
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — 让 Codex 读写 Figma。
 - [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) — Rust 写的代码情报 CLI，为 agent 构建调用图和语义检索。
 - [morluto/rea](https://github.com/morluto/rea) — 让 Codex 逆向分析应用行为和原生二进制的 MCP 服务，安装时会一并写入配套的工作流说明。
