@@ -112,6 +112,7 @@
 - [Model Context Protocol](https://modelcontextprotocol.io) — Protocol spec and SDKs.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — Reference server implementations.
 - [Sentry MCP](https://mcp.sentry.dev/) — Connects Codex to Sentry over OAuth to search production errors, inspect events, and analyze performance. `(Paid)`
+- [imageat](https://github.com/incendies/imageat-mcp) — Official MCP server for generating and editing images and videos, plus narrated explainers and voiceovers, over a hosted endpoint or local stdio. `(Paid)`
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Read and write Figma from Codex.
 - [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) — Rust code-intelligence CLI that builds call graphs and semantic search for coding agents.
 - [morluto/rea](https://github.com/morluto/rea) — MCP server that lets Codex reverse engineer app behavior and native binaries, and installs matching workflow instructions during setup.
