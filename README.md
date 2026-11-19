@@ -118,6 +118,7 @@
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — Lets Codex research documentation through NotebookLM.
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — Uses ChatGPT Developer Mode as a local coding agent for your repo over MCP.
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) — Builds a local index of Codex and other coding agents’ sessions for history search over MCP, recovery of overwritten code from session records, and cross-agent task handoffs.
+- [aleksandrjefimov4-crypto/cheapcarent-mcp](https://github.com/aleksandrjefimov4-crypto/cheapcarent-mcp) — Read-only remote MCP server for searching rental cars and listing pickup cities and airports.
 
 ## Hooks & Automation
 
