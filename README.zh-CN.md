@@ -103,6 +103,7 @@
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — 面向 Codex 的营销插件，包含 45 个 SEO、GEO、付费媒体与分析工作流，并通过一个托管 MCP 连接处理实时账户任务。
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — 本地优先的 Codex 运行时治理插件；先以 Shadow Mode 观察重复工具调用，仅在验证证据、明确同意和完整性检查通过后启用窄范围拦截。
 - [rossoctl/context-guru](https://github.com/rossoctl/context-guru) — 实验性 Codex 插件，将会话接入本地代理，提供提示缓存管理与可选的上下文裁剪。
+- [Doodle](https://github.com/2648782102/Doodle) — 本地双向共享画板，你和 Codex 可以在同一张画布上画图交流，一条命令即可装进 Codex，用于画结构和意图，不必再开第二套会话。
 
 ## MCP 服务器
 

@@ -103,6 +103,7 @@
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — Codex marketing plugin with 45 SEO, GEO, paid-media, and analytics workflows plus one hosted MCP connection for live account work.
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — Local-first Codex runtime governor that observes repeated tool work in Shadow Mode and gates narrow enforcement on verified evidence, explicit consent, and integrity checks.
 - [rossoctl/context-guru](https://github.com/rossoctl/context-guru) — Experimental Codex plugin that routes sessions through a local proxy for prompt-cache management and optional context trimming.
+- [Doodle](https://github.com/2648782102/Doodle) — Local shared whiteboard you and Codex can both draw on, installed in Codex with one command, for sketching structure and intent without a second chat channel.
 
 ## MCP Servers
 
