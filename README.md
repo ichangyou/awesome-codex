@@ -70,6 +70,7 @@
 - [CLI Customization](https://learn.chatgpt.com/docs/cli-customization) — Customize the Codex terminal interface, editor, completions, and keyboard shortcuts. `(Official)`
 - [Codex Rules: Global Instructions, AGENTS.md, and the Mac App](https://kirill-markin.com/articles/codex-rules-for-ai/) — Walkthrough of how the instruction layers actually resolve in practice.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — Cross-platform desktop app for switching provider/account configs across Codex, Claude Code, and others.
+- [Folkbench Switch](https://folkbench.com/en/switch?utm_source=github&utm_medium=awesome&utm_campaign=ichangyou-awesome-codex) — Desktop app (macOS/Windows, beta) that writes a saved API endpoint and key into Codex's `config.toml`, shows the diff first, and parks your official Codex login credentials until you switch back.
 
 ## Skills
 
