@@ -70,7 +70,7 @@
 - [CLI 自定义](https://learn.chatgpt.com/docs/cli-customization) — 自定义 Codex 终端界面、编辑器、补全和键盘快捷键。 `(Official)`
 - [Codex Rules: Global Instructions, AGENTS.md, and Mac App](https://kirill-markin.com/articles/codex-rules-for-ai/) — 实战角度讲清各层指令的生效顺序。
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — 跨平台桌面端配置/账号切换工具，支持 Codex、Claude Code 等。
-- [Folkbench Switch](https://folkbench.com/switch?utm_source=github&utm_medium=awesome&utm_campaign=ichangyou-awesome-codex) — 桌面端（macOS/Windows，Beta），把保存的 API 地址和 Key 写入 Codex 的 `config.toml`，写入前先显示差异，切到第三方服务时暂存官方登录凭据、切回时恢复。
+- [Folkbench Switch](https://folkbench.com/switch) — macOS 和 Windows 上的 Beta 桌面应用，切换 Codex 至第三方 API 前可预览配置变更，切回官方服务时会恢复已暂存的 ChatGPT 登录凭据。
 
 ## Skills
 
