@@ -120,6 +120,7 @@
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — 让 Codex 通过 NotebookLM 查文档。
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — 通过 MCP 把 ChatGPT Developer Mode 当作本地编码 agent 使用。
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) — 为 Codex 等编码 agent 的会话建立本地索引，通过 MCP 检索历史上下文，并支持从会话记录恢复被覆盖的代码及跨 agent 任务交接。
+- [AlphaOSINT Google Scholar MCP](https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-scholar) — 托管的 MCP 服务器，让 Codex 在调研库或算法时检索 Google Scholar 的论文、引用和作者资料。 `(Paid)`
 
 ## Hooks 与自动化
 
