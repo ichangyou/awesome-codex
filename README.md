@@ -121,6 +121,8 @@
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — Uses ChatGPT Developer Mode as a local coding agent for your repo over MCP.
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) — Builds a local index of Codex and other coding agents’ sessions for history search over MCP, recovery of overwritten code from session records, and cross-agent task handoffs.
 
+- [Public Records](https://github.com/GeminiGeorge22/publicrecords-skills) — Hosted Apify MCP plus Agent Skills that pull official public data (US contracts and grants, UK and EU tenders, council meetings, ATS jobs, company social links, Etsy, Google ads, sports odds, and Spotify plays) using your own Apify account. `(Paid)`
+
 ## Hooks & Automation
 
 - [Hooks](https://learn.chatgpt.com/docs/hooks) — Run commands on Codex lifecycle events. `(Official)`
