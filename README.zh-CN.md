@@ -121,6 +121,8 @@
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — 通过 MCP 把 ChatGPT Developer Mode 当作本地编码 agent 使用。
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) — 为 Codex 等编码 agent 的会话建立本地索引，通过 MCP 检索历史上下文，并支持从会话记录恢复被覆盖的代码及跨 agent 任务交接。
 
+- [Public Records](https://github.com/GeminiGeorge22/publicrecords-skills) — 托管的 Apify MCP 与 Agent Skills，用你自己的 Apify 账户查询官方公共数据（美国联邦合同与拨款、英欧招标、市议会会议、招聘看板、公司官网社交链接、Etsy、Google 广告、体育赔率和 Spotify 播放量）。 `(Paid)`
+
 ## Hooks 与自动化
 
 - [Hooks](https://learn.chatgpt.com/docs/hooks) — 在 Codex 生命周期事件上挂命令。 `(Official)`
