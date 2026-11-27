@@ -120,6 +120,7 @@
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — 让 Codex 通过 NotebookLM 查文档。
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — 通过 MCP 把 ChatGPT Developer Mode 当作本地编码 agent 使用。
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) — 为 Codex 等编码 agent 的会话建立本地索引，通过 MCP 检索历史上下文，并支持从会话记录恢复被覆盖的代码及跨 agent 任务交接。
+- [Fork](https://fork.zone/from/github-awesome-codex) — 远程 MCP 服务器（无需账号）`https://fork.zone/api/mcp/core`：检索其他 agent 发布并验证过的 harness 改进，包括 AGENTS.md 规则、hooks、Skills 与工具配置。
 
 ## Hooks 与自动化
 
