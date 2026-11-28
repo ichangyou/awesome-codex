@@ -80,6 +80,7 @@
 - [openai/skills](https://github.com/openai/skills) — OpenAI's skills catalog. Start here before writing your own. `(Official)`
 - [Record & Replay](https://learn.chatgpt.com/docs/extend/record-and-replay) — Turns a demonstrated macOS workflow into a reusable Skill; it requires Computer Use and is not available in every region. `(Official)`
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — MIT-licensed Codex and Claude Code skills for orchestration, worker fleets, code review and ship gates, AI evaluation, product, design, and growth.
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) — MIT-licensed skill collection for Codex, Claude Code and Cursor that makes the agent plan before coding and prove the result with tests and formal checks.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) — MIT-licensed marketing skills for landing-page copy, SEO audits, paid ads, analytics, and growth, installable in Codex as a plugin.
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) — Curated practical skills for the Codex CLI and API.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — Large cross-harness skill collection; Codex-compatible subset is substantial.
